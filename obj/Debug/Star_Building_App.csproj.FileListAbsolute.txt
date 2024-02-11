@@ -1,0 +1,8 @@
+C:\Users\Zama\Desktop\Private\PRG_PRAC\Star_Building_App\bin\Debug\Star_Building_App.exe.config
+C:\Users\Zama\Desktop\Private\PRG_PRAC\Star_Building_App\bin\Debug\Star_Building_App.exe
+C:\Users\Zama\Desktop\Private\PRG_PRAC\Star_Building_App\bin\Debug\Star_Building_App.pdb
+C:\Users\Zama\Desktop\Private\PRG_PRAC\Star_Building_App\obj\Debug\Star_Building_App.csproj.AssemblyReference.cache
+C:\Users\Zama\Desktop\Private\PRG_PRAC\Star_Building_App\obj\Debug\Star_Building_App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zama\Desktop\Private\PRG_PRAC\Star_Building_App\obj\Debug\Star_Building_App.csproj.CoreCompileInputs.cache
+C:\Users\Zama\Desktop\Private\PRG_PRAC\Star_Building_App\obj\Debug\Star_Building_App.exe
+C:\Users\Zama\Desktop\Private\PRG_PRAC\Star_Building_App\obj\Debug\Star_Building_App.pdb
